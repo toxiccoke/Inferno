@@ -5,12 +5,6 @@ Prison Coins
 
 -Enchantment Signs
 
--Giving Coin Command
-
--Taking Coin Command
-
--Way To Check To Check Config/Sql How Many Coins The Player Has
-
 -Fix Enchantmewnt System So It Adds 1 Enchantment Every Time Player Right Clicks Takes A Way Certain Amount (Haste 100, Fortune 3, Exsplosive 4, Efficiency 1)
 
 -Change Config To SQL
